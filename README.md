@@ -7,12 +7,10 @@
 
 
 <h4>🍀Tech Stack</h4>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
 <h4>🌰Tools</h4>
 <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-
-
 
 <h4>🔔About me</h4>
 
