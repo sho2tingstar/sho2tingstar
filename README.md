@@ -3,7 +3,8 @@
 <h4>📚 I’m currently learning Java and Spring.</h4>
 </div>
 
-![sho2tingstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sho2tingstar&theme=default&section=footer&show_icons=true)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sho2tingstar&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 
 
 <h4>🍀Tech Stack</h4>
