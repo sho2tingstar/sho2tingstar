@@ -4,7 +4,7 @@
 </div>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sho2tingstar&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sho2tingstar&theme=dracula&&hide=Procfile&layout=compact&langs_count=8"/>
 
 
 <h4>🍀Tech Stack</h4>
